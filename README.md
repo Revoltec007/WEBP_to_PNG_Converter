@@ -9,4 +9,4 @@ ___
 All you need to do is to install Python + the Pillow library and edit the FOLDER_PATH to your desired folder to process.
 ___
 ### Test results:
-(images/test_results.png)
+[](test_results.png)
