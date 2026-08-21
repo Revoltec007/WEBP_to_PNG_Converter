@@ -9,8 +9,4 @@ ___
 All you need to do is to install Python + the Pillow library and edit the FOLDER_PATH to your desired folder to process.
 ___
 ### Test results:
-<<<<<<< HEAD
 ![Test Results](./test_results.png)
-=======
-(images/test_results.png)
->>>>>>> parent of a941f2f (Referring to the screenshot)
